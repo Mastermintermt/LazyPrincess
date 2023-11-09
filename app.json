@@ -19,8 +19,8 @@
        "Lazy Princess",
        "LazyPrincess"
     ],
-    "website": "https://github.com/LazyDeveloperr/LazyPrincess",
-    "repository": "https://github.com/LazyDeveloperr/LazyPrincess",
+    "website": "https://github.com/Mastermintermt/LazyPrincess",
+    "repository": "https://github.com/Mastermintermt/LazyPrincess",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
